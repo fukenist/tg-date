@@ -6,7 +6,7 @@ from telegram import ParseMode
 
 bot = telebot.TeleBot('455555555555555еееееееееееее')
 
-cluster = MongoClient("mongodb+srv://ku56кр:reytr66i124q@clreter0.qa1ye.mongodb.net/?retryWrites=true&w=majority&ssl=true")
+cluster = MongoClient("mongodb+srv://ku56кр:reytr66i124q@clretxer0.qa1ye.mongodb.net/?retryWrites=true&w=majority&ssl=true")
 
 db = cluster['db_date']
 collection = db['dateme']

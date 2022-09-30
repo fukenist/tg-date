@@ -4,7 +4,7 @@ from telebot import types
 import time
 from telegram import ParseMode
 
-bot = telebot.TeleBot('54555555555:eeeeeeeeeeeeeeeeee')
+bot = telebot.TeleBot('545555555553:eeeeeeeeeeeeeeeeee')
 
 
 
